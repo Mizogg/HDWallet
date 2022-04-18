@@ -12,6 +12,58 @@ For more info see the BIP specs.
 | [BIP49](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki)  | Derivation scheme for P2WPKH-nested-in-P2SH based accounts |
 | [BIP84](https://github.com/bitcoin/bips/blob/master/bip-0084.mediawiki)  | Derivation scheme for P2WPKH based accounts                |
 
+New Version
+
+![image](https://user-images.githubusercontent.com/88630056/163863687-956d436e-f0ab-4ca0-8bcc-56be3d92100a.png)
+
+```
+Mnemonic 12/15/18/21/24 : Words to Bitcoin&ETH HDWallet Tool
+Enter Ammount Mnemonic Words 12/15/18/21/24 : 24
+ Choose language 1.english, 2.french, 3.italian, 4.spanish, 5.chinese_simplified, 6.chinese_traditional, 7.japanese or 8.korean 1
+ [1] ------------------------
+Total Checked [4]
+
+mnemonic_words  : food violin matrix sure saddle gallery glimpse floor spatial clock rude battle nerve cheese monkey coin plunge nurse token chief now blanket weasel bridge
+Privatekey :  8696410df462148efae2f1f65fc526894c6c009bf91da8e13aaece01d3069587
+Privatekey DEC :  60875397759602848816110806579297189877307689957964260404331241186090419656071
+
+     |==============================================|======================|
+     | Bitcoin (BTC) & Ethereum (ETH) Address       |       Balance        |
+     |==============================================|======================|
+     |  0xDFB6AA99809EbB7594586a22Ba9fa7Ab14921975  |   0                  |
+     |==============================================|======================|
+     |==============================================|======================|
+     |  13dpr98CgVQUxJ1394mg2m7FZ9TX8wU4hW          |   0                  |
+     |==============================================|======================|
+     |==============================================|======================|
+     |  3DA5U1E62sp1pCqgyTV5FfURz4vbJwBSo7          |   0                  |
+     |==============================================|======================|
+     |==============================================|======================|
+     |  bc1qt95800asx604ywu80nu7q4r46nq86je2kaqdel  |   0                  |
+     |==============================================|======================|
+ [2] ------------------------
+Total Checked [8]
+
+mnemonic_words  : choice faculty cube glue repeat also found balance radar gasp alone differ nature measure horror lawsuit harsh praise infant peasant armor grass struggle smooth
+Privatekey :  b5193cc4666d9acfd597dfa9bb2b33c0ffb918915165921726d17f21ae557ba2
+Privatekey DEC :  81913216169907972621599903701616516725265140228819010495101168680870566263714
+
+     |==============================================|======================|
+     | Bitcoin (BTC) & Ethereum (ETH) Address       |       Balance        |
+     |==============================================|======================|
+     |  0x0E549F71fbf5AE5E25ACC4bBc5B223eE5C263010  |   0                  |
+     |==============================================|======================|
+     |==============================================|======================|
+     |  1HfXvnjoVSkge71UoVGKZNCBduBthP3JEh          |   0                  |
+     |==============================================|======================|
+     |==============================================|======================|
+     |  3FaT7kXwDdKVDVT2pEnkNjek5b1yHitJyH          |   0                  |
+     |==============================================|======================|
+     |==============================================|======================|
+     |  bc1qet56247y0n5wfnhx0r3mxwk2vr8k96xu0qsrxf  |   0                  |
+     |==============================================|======================|
+```     
+
 ## Installation
 
 The easiest way to install `hdwallet` is via pip:
